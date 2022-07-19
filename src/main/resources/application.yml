@@ -1,0 +1,6 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 736196315@qq.com
+    # qq授权码 不是密码
+    password: ****
